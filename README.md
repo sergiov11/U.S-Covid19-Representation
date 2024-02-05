@@ -16,9 +16,9 @@ The data used for this project was obtained from the GEOG 458 course repo and wa
 ## Maps
 ### Map 1 - U.S. COVID-19 Rates at County Level
 ![COVID-19 Rates Map](img/map1.png)
-[Map 1 - Link](link goes here)
+[Map 1 - Link](https://raw.githack.com/sergiov11/U.S-Covid19-Representation/main/map1.html)
 
 
 ### Map 2 - Number of COVID-19 Cases in the U.S.
 ![COVID-19 Cases Map](img/map2.png)
-[Map 2 - Link](link goes here)
+[Map 2 - Link](https://raw.githack.com/sergiov11/U.S-Covid19-Representation/main/map2.html)
